@@ -1,0 +1,164 @@
+﻿<Page x:Class="WpfAppAT_Course_work.Pages.WelcomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfAppAT_Course_work.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="830" d:DesignWidth="1100"
+      Title="WelcomePage" Background="#99282828">
+
+    <Grid>
+        <Grid Width="800" HorizontalAlignment="Center" VerticalAlignment="Top">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100
+                               "/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0"  >
+                <TextBlock Text="Добро пожаловать" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="48" Foreground="White" FontFamily="Arial Rounded MT Bold" FontWeight="Bold"/>
+            </Grid>
+
+            <Grid Grid.Row="1">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="266"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="170"/>
+                        <RowDefinition Height="170"/>
+                        <RowDefinition Height="170"/>
+                    </Grid.RowDefinitions>
+
+
+
+
+                    <Grid Grid.Row="0" HorizontalAlignment="Left" >
+                        <Grid Width="200" >
+                            <Button x:Name="createAutomatonBtn"
+                    FontFamily="Segoe MDL2 Assets" FontSize="59"
+                    Content="&#xECC8;" Margin="0" Background="White" Height="160" Width="200" VerticalAlignment="Bottom" Click="createAutomatonBtn_Click">
+                                <Button.BorderBrush>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="Black" Offset="0"/>
+                                        <GradientStop Color="#FFDC7979" Offset="1"/>
+                                    </LinearGradientBrush>
+                                </Button.BorderBrush>
+                                <TextBlock.Foreground>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="#FFA361A6" Offset="0.03"/>
+                                        <GradientStop Color="#FF1495D1" Offset="1"/>
+                                        <GradientStop Color="#FF07A6F3" Offset="0.86"/>
+                                    </LinearGradientBrush>
+                                </TextBlock.Foreground>
+                            </Button>
+
+                            <TextBlock
+                       FontSize="30" FontWeight="Bold" Margin="0,0,0,20" VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="#FF414141" FontFamily="Segoe UI Light" Text="Создать" />
+
+                        </Grid>
+
+                    </Grid>
+
+                    <Grid Grid.Row="1" HorizontalAlignment="Left">
+                        <Grid Width="200" >
+                            <Button x:Name="openAutomatonBtn"
+                    FontFamily="Segoe MDL2 Assets" FontSize="59"
+                    Content="&#xED43;" Margin="0" Background="White" Height="160" VerticalAlignment="Bottom" Width="200" BorderBrush="#FFB02DA4" Click="openAutomatonBtn_Click" IsEnabled="False">
+                                <TextBlock.Foreground>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="#FFA361A6" Offset="0.03"/>
+                                        <GradientStop Color="#FF1495D1" Offset="1"/>
+                                        <GradientStop Color="#FF07A6F3" Offset="0.86"/>
+                                    </LinearGradientBrush>
+                                </TextBlock.Foreground>
+                            </Button>
+
+                            <TextBlock
+                       FontSize="30" FontWeight="Bold" Margin="0,0,0,20" VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="#FF414141" FontFamily="Segoe UI Light" Text="Открыть" />
+                        </Grid>
+                    </Grid>
+
+
+
+                    <Grid Grid.Row="2" HorizontalAlignment="Left">
+                        <Grid Width="200" >
+                            <Button x:Name="helpAutomatonBtn"
+                    FontFamily="Segoe MDL2 Assets" FontSize="59"
+                    Content="&#xE897;" Margin="0" Background="White" Height="160" VerticalAlignment="Bottom" Width="200" BorderBrush="#FF5A85B9" Click="helpAutomatonBtn_Click">
+                                <TextBlock.Foreground>
+                                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                        <GradientStop Color="#FFA361A6" Offset="0.03"/>
+                                        <GradientStop Color="#FF1495D1" Offset="1"/>
+                                        <GradientStop Color="#FF07A6F3" Offset="0.86"/>
+                                    </LinearGradientBrush>
+                                </TextBlock.Foreground>
+                            </Button>
+
+                            <TextBlock
+                       FontSize="30" FontWeight="Bold" Margin="0,0,0,20" VerticalAlignment="Bottom" HorizontalAlignment="Center" Foreground="#FF414141" FontFamily="Segoe UI Light" Text="Справка" />
+                        </Grid>
+                    </Grid>
+
+                </Grid>
+
+                <Grid Grid.Column="1">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0">
+                        <Grid Margin="20" Background="#FF3B5998">
+                            <Label Content="Система вкладок" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Arial Rounded MT Bold" FontSize="24"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="18,53,0,0" TextWrapping="Wrap" Text="Теперь благодаря вкладкам вы можете одновременно просматривать несколько автоматов и переключаться между ними. Просто создайте вкладку, выбрав нужный пункт в верхнем меню." VerticalAlignment="Top" Width="282" Height="139" Foreground="White" FontSize="16"/>
+                            <Image HorizontalAlignment="Left" Height="151" Margin="273,129,-88,-25" VerticalAlignment="Top" Width="309" Source="/WpfAppAT_Course work;component/Styles/Image/tab.PNG"/>
+                        </Grid>
+
+                    </Grid>
+
+                    <Grid Grid.Row="1">
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Grid Grid.Column="0">
+                            <Grid Margin="20" Background="#FFFAFAFA">
+                                <Label Content="Выберете готовый&#xD;&#xA;шаблон" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="Black" FontFamily="Arial Rounded MT Bold" FontSize="20"/>
+
+                            </Grid>
+
+                        </Grid>
+
+                        <Grid Grid.Column="1">
+                            <Grid Margin="20" Background="#FF1ED760">
+                                <Label Content="Или создайте &#xD;&#xA;свой" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="Black" FontFamily="Arial Rounded MT Bold" FontSize="24"/>
+
+                            </Grid>
+                        </Grid>
+
+                    </Grid>
+                </Grid>
+
+
+
+            </Grid>
+
+
+            <CheckBox Content="CheckBox" HorizontalAlignment="Left" Height="100" Margin="935,231,0,-170" Grid.Row="4" VerticalAlignment="Top"/>
+        </Grid>
+        <Image HorizontalAlignment="Left" Height="149" Margin="405,533,0,0" VerticalAlignment="Top" Width="241" Source="/WpfAppAT_Course work;component/Styles/Image/select.PNG" RenderTransformOrigin="0.5,0.5"/>
+        <Image HorizontalAlignment="Left" Height="186" Margin="721,510,0,0" VerticalAlignment="Top" Width="234" Source="/WpfAppAT_Course work;component/Styles/Image/add.PNG"/>
+
+
+
+    </Grid>
+</Page>

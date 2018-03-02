@@ -1,0 +1,169 @@
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\bin\Debug\WpfAppAT_Course work.exe.config
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\bin\Debug\WpfAppAT_Course work.exe
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\bin\Debug\WpfAppAT_Course work.pdb
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\MainWindow.g.cs
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\App.g.cs
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work_MarkupCompile.cache
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work_MarkupCompile.lref
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\MainWindow.baml
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.g.resources
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course_work.Properties.Resources.resources
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.csproj.GenerateResource.Cache
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.csproj.CoreCompileInputs.cache
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.exe
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.pdb
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\WelcomePage.g.cs
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\WelcomePage.baml
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Styles\CustomizedWindow\TvorozhokWindowStyle.baml
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Styles\CustomizedWindow\TvorozhokWindowStyle.g.cs
+c:\users\akhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\App.baml
+C:\Users\AKhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\BuildingAnAutomaton.g.cs
+C:\Users\AKhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\BuildingAnAutomaton.baml
+C:\Users\AKhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\SettingTheTransitionFunction.g.cs
+C:\Users\AKhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\SettingTheTransitionFunction.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\bin\Debug\WpfAppAT_Course work.exe.config
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\bin\Debug\WpfAppAT_Course work.exe
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\bin\Debug\WpfAppAT_Course work.pdb
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Styles\CustomizedWindow\TvorozhokWindowStyle.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\MainWindow.g.cs
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\BuildingAnAutomaton.g.cs
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\SettingTheTransitionFunction.g.cs
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\WelcomePage.g.cs
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Styles\CustomizedWindow\TvorozhokWindowStyle.g.cs
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\App.g.cs
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work_MarkupCompile.cache
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work_MarkupCompile.lref
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\App.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\MainWindow.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\BuildingAnAutomaton.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\SettingTheTransitionFunction.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\WelcomePage.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.g.resources
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course_work.Properties.Resources.resources
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.csproj.GenerateResource.Cache
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.csproj.CoreCompileInputs.cache
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.exe
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.pdb
+C:\Users\AKhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\ViewingTheAutomaton.g.cs
+C:\Users\AKhaz\documents\visual studio 2017\Projects\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\ViewingTheAutomaton.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\ViewingTheAutomaton.g.cs
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\ViewingTheAutomaton.baml
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\bin\Debug\WpfAppAT_Course work.exe.config
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\bin\Debug\WpfAppAT_Course work.exe
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\bin\Debug\WpfAppAT_Course work.pdb
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Styles\CustomizedWindow\TvorozhokWindowStyle.baml
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\MainWindow.g.cs
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\BuildingAnAutomaton.g.cs
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\SettingTheTransitionFunction.g.cs
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\ViewingTheAutomaton.g.cs
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\WelcomePage.g.cs
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Styles\CustomizedWindow\TvorozhokWindowStyle.g.cs
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\App.g.cs
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work_MarkupCompile.cache
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work_MarkupCompile.lref
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\App.baml
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\MainWindow.baml
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\BuildingAnAutomaton.baml
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\SettingTheTransitionFunction.baml
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\ViewingTheAutomaton.baml
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\WelcomePage.baml
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.g.resources
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course_work.Properties.Resources.resources
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.csproj.GenerateResource.Cache
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.csproj.CoreCompileInputs.cache
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.exe
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.pdb
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Node.g.cs
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Node.baml
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Arrow.g.cs
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Arrow.baml
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\Error.g.cs
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\Error.baml
+C:\Users\AKhaz\source\repos\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.csprojResolveAssemblyReference.cache
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\bin\Debug\WpfAppAT_Course work.exe.config
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\bin\Debug\WpfAppAT_Course work.exe
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\bin\Debug\WpfAppAT_Course work.pdb
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.csprojResolveAssemblyReference.cache
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Styles\CustomizedWindow\TvorozhokWindowStyle.baml
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\MainWindow.g.cs
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Arrow.g.cs
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Node.g.cs
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\BuildingAnAutomaton.g.cs
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\Error.g.cs
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\SettingTheTransitionFunction.g.cs
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\ViewingTheAutomaton.g.cs
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\WelcomePage.g.cs
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Styles\CustomizedWindow\TvorozhokWindowStyle.g.cs
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\App.g.cs
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work_MarkupCompile.cache
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work_MarkupCompile.lref
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\App.baml
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\MainWindow.baml
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Arrow.baml
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Node.baml
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\BuildingAnAutomaton.baml
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\Error.baml
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\SettingTheTransitionFunction.baml
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\ViewingTheAutomaton.baml
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\WelcomePage.baml
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.g.resources
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course_work.Properties.Resources.resources
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.csproj.GenerateResource.Cache
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.csproj.CoreCompileInputs.cache
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.exe
+C:\Users\mr Kat\Desktop\Курсовая ТА\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.pdb
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\bin\Debug\WpfAppAT_Course work.exe.config
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\bin\Debug\WpfAppAT_Course work.exe
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\bin\Debug\WpfAppAT_Course work.pdb
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Styles\CustomizedWindow\TvorozhokWindowStyle.baml
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\MainWindow.g.cs
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Arrow.g.cs
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Node.g.cs
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\BuildingAnAutomaton.g.cs
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\Error.g.cs
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\SettingTheTransitionFunction.g.cs
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\ViewingTheAutomaton.g.cs
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\WelcomePage.g.cs
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Styles\CustomizedWindow\TvorozhokWindowStyle.g.cs
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\App.g.cs
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work_MarkupCompile.cache
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work_MarkupCompile.lref
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\App.baml
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\MainWindow.baml
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Arrow.baml
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Node.baml
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\BuildingAnAutomaton.baml
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\Error.baml
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\SettingTheTransitionFunction.baml
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\ViewingTheAutomaton.baml
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\WelcomePage.baml
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.g.resources
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course_work.Properties.Resources.resources
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.csproj.GenerateResource.Cache
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.csproj.CoreCompileInputs.cache
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.exe
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.pdb
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\ViewHelp.g.cs
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\ViewHelp.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Arrow.g.cs
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Node.g.cs
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\Error.g.cs
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\ViewHelp.g.cs
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Arrow.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\My elements\Node.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\Error.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\ViewHelp.baml
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\PageTest.g.cs
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\PageTest.baml
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\NotificationWindow.g.cs
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\NotificationWindow.baml
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.csprojResolveAssemblyReference.cache
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\ErrorWindow.g.cs
+C:\Users\AKhaz\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\ErrorWindow.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\ErrorWindow.g.cs
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\NotificationWindow.g.cs
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\PageTest.g.cs
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\ErrorWindow.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\NotificationWindow.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\Pages\PageTest.baml
+C:\Users\mr Kat\Desktop\WpfAppAT_Course work\WpfAppAT_Course work\obj\Debug\WpfAppAT_Course work.csprojResolveAssemblyReference.cache

@@ -1,0 +1,68 @@
+﻿<Window x:Class="WpfAppAT_Course_work.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppAT_Course_work"
+        mc:Ignorable="d"
+        Title="Творожок "  Width="1208" MaxWidth="1208" MinWidth="1108" Height="831" MaxHeight="831" MinHeight="831" Background="#3FFFFFFF"    
+        
+        Style="{StaticResource VS2012WindowStyle}" Icon="Styles/Image/icon.png">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" >
+            <Menu Height="25" VerticalAlignment="Top" Background="#FF121212" Foreground="#FFFAFAFA" FontSize="14">
+                <MenuItem Header="Файл" >
+                    <MenuItem x:Name="AddIem" Header="Новая вкладка" Foreground="Black" Click="AddIem_Click"></MenuItem>
+                    <Separator />
+                    <MenuItem Header="Открыть" Foreground="Black"></MenuItem>
+                    <MenuItem Header="Открыть для тестирования" Foreground="Black">
+                        <MenuItem x:Name="Number" Header="Тест цифры" Foreground="Black" Click="Number_Click" ></MenuItem>
+                        <MenuItem x:Name="WebEbay" Header="Тест Web  and Ebay с e" Click="TestWPF_Click" ></MenuItem>
+                        <MenuItem x:Name="WebEbayNFA" Header="Тест Web  and Ebay" Click="WebEbayNFA_Click" ></MenuItem>
+                    </MenuItem>
+                    <Separator />
+                    <MenuItem x:Name="ClodeItem"  Header="Закрыть текущую вкладку" Foreground="Black" Click="ClodeItem_Click"></MenuItem>
+                    <Separator />
+                    <MenuItem Header="Выход" Foreground="Black"></MenuItem>
+                </MenuItem>
+
+                <MenuItem Header="Правка" ></MenuItem>
+                <MenuItem Header="Справка" >
+                    <MenuItem Header="Руководство пользователя" Foreground="Black"></MenuItem>
+                    <MenuItem Header="Как задать автомат?" Foreground="Black"></MenuItem>
+                    <Separator />
+                    <MenuItem x:Name="AboutApp" Header="О Творожке" Foreground="Black" Click="AboutApp_Click"></MenuItem>
+                </MenuItem>
+            </Menu>
+        </Grid>
+
+        <Grid Grid.Row="1" >
+            <Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF303030" Offset="0"/>
+                    <GradientStop Color="#FF181818" Offset="1"/>
+                    <GradientStop Color="#FF0C0C0C" Offset="0.513"/>
+                </LinearGradientBrush>
+            </Grid.Background>
+            <TabControl x:Name="TabControlMain" Background="#00000000" Foreground="Black" BorderBrush="#001D9E54" IsSynchronizedWithCurrentItem="True" Margin="5" TabStripPlacement="Bottom"/>
+
+
+
+        </Grid>
+
+
+        <!--Grid Grid.Row="2">
+            <Frame Name="MainFrame" Margin="0,0,0,0" NavigationUIVisibility ="Hidden" />
+
+        </Grid-->
+
+
+
+    </Grid>
+</Window>

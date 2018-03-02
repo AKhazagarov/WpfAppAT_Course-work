@@ -1,0 +1,39 @@
+﻿<Window x:Class="WpfAppAT_Course_work.ErrorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppAT_Course_work"
+        mc:Ignorable="d"
+        Title="ErrorWindow" Height="460" Width="560"
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Background="#333333">
+            <TextBlock Text="Творожок Error" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18" Foreground="White" FontFamily="Arial Rounded MT Bold"/>
+        </Grid>
+
+        <Grid Grid.Row="1" Background="#181818">
+            <Grid HorizontalAlignment="Left" Height="300" Margin="19,80,0,0" VerticalAlignment="Top" Width="300">
+                <Grid.Background>
+                    <ImageBrush ImageSource="Pages/error.png"/>
+                </Grid.Background>
+            </Grid>
+            <TextBlock x:Name="AboutTB" HorizontalAlignment="Left" Margin="203,50,0,0" TextWrapping="Wrap" Text="Ошибка" VerticalAlignment="Top" Height="120" Width="335" Foreground="#FFC8C8C8" FontSize="16" FontFamily="Arial Rounded MT Bold"/>
+            <TextBlock x:Name="LabelTB" HorizontalAlignment="Left" Margin="203,10,0,0" TextWrapping="Wrap" Text="Ошибка" VerticalAlignment="Top" Height="25" Width="335" Foreground="#FFC8C8C8" FontSize="22" FontFamily="Arial Rounded MT Bold"/>
+        </Grid>
+
+        <Grid x:Name="CloseGrid" Grid.Row="2" Background="#1DB954" MouseLeftButtonDown="CloseGrid_MouseLeftButtonDown">
+            <TextBlock Text="Закрыть" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18" Foreground="White" FontFamily="Arial Rounded MT Bold"/>
+
+
+        </Grid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,173 @@
+﻿<Page x:Class="WpfAppAT_Course_work.Pages.BuildingAnAutomaton"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfAppAT_Course_work.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="830" d:DesignWidth="1100"
+      Title="BuildingAnAutomaton">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="250"/>
+        </Grid.ColumnDefinitions>
+
+
+        <Grid Grid.Column="0" Background="#00B5B8B6">
+            <Grid Margin="7,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="40"/>
+
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="80"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                </Grid.RowDefinitions>
+
+
+                <Grid Grid.Row="0">
+                    <TextBlock Text="Определение конечного автомата " FontSize="40" Margin="50,0,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Arial Rounded MT Bold" FontWeight="Bold" />
+                </Grid>
+                <Grid Grid.Row="1">
+                    <TextBlock Text="Конечный автомат это A = (Q, Σ, δ, q, F)" FontSize="16" Margin="50,0,0,0" VerticalAlignment="Top" Foreground="#FFC8C8C8" FontFamily="Arial Rounded MT Bold"/>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <TextBlock Text="Введите конечное множество состояний" FontSize="16" Margin="50,0,0,0" VerticalAlignment="Bottom" Foreground="#FFC8C8C8"/>
+                </Grid>
+                <Grid Grid.Row="3">
+                    <TextBlock Text="Q = " FontSize="24" Margin="50,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" FontWeight="Bold" Foreground="#FFC8C8C8"/>
+                    <TextBox x:Name="enterQTb" FontSize="16" Margin="100, 0, 0, 0" Height="30" Width="200" HorizontalAlignment="Left" />
+                </Grid>
+
+                <Grid Grid.Row="4">
+                    <TextBlock Text="Введите конечное множество входных символов" FontSize="16" Margin="50,0,0,0" VerticalAlignment="Bottom" Foreground="#FFC8C8C8"/>
+                </Grid>
+                <Grid Grid.Row="5">
+                    <TextBlock Text="Σ = " FontSize="24" Margin="50,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" FontWeight="Bold" Foreground="#FFC8C8C8"/>
+                    <TextBox x:Name="enterEpsTb" FontSize="16" Margin="100, 0, 0, 0" Height="30" Width="200" HorizontalAlignment="Left" />
+                </Grid>
+
+                <Grid Grid.Row="6">
+                    <TextBlock Text="Введите начальное состояние" FontSize="16" Margin="50,0,0,0" VerticalAlignment="Bottom" Foreground="#FFC8C8C8"/>
+                </Grid>
+                <Grid Grid.Row="7">
+                    <TextBlock Text="q = " FontSize="24" Margin="50,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" FontWeight="Bold" Foreground="#FFC8C8C8"/>
+                    <TextBox x:Name="enterqTb" FontSize="16" Margin="100, 0, 0, 0" Height="30" Width="200" HorizontalAlignment="Left" />
+                </Grid>
+
+                <Grid Grid.Row="8">
+                    <TextBlock Text="Введите множество заключительных состояний" FontSize="16" Margin="50,0,0,0" VerticalAlignment="Bottom" Foreground="#FFC8C8C8"/>
+                </Grid>
+                <Grid Grid.Row="9">
+                    <TextBlock Text="F = " FontSize="24" Margin="50,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" FontWeight="Bold" Foreground="#FFC8C8C8"/>
+                    <TextBox x:Name="enterFTb" FontSize="16" Margin="100, 0, 0, 0" Height="30" Width="200" HorizontalAlignment="Left" />
+                </Grid>
+
+                <Grid Grid.Row="10">
+                    <RadioButton x:Name="enterDeltaRadioBtn" Content="Этот автомат содержит ε переходы " HorizontalAlignment="Left" VerticalAlignment="Bottom" FontSize="20" Margin="50,0,0,0" Foreground="#FFC8C8C8" />
+                    <RadioButton x:Name="enterNotDeltaRadioBtn" Content="Этот автомат НЕ содержит ε переходы " HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" Margin="50,20,0,0" IsChecked="True" Foreground="#FFC8C8C8" />
+                </Grid>
+
+                <Grid Grid.Row="12"/>
+
+            </Grid>
+        </Grid>
+
+
+        <Grid Grid.Column="1" Background="#00F0F2F3" VerticalAlignment="Bottom">
+
+            <Grid.RowDefinitions >
+                <RowDefinition Height="300"/>
+                <RowDefinition Height="400"/>
+            </Grid.RowDefinitions>
+
+
+            <Grid Grid.Row="0">
+
+                <Grid.RowDefinitions >
+                    <RowDefinition Height="100"/>
+                </Grid.RowDefinitions>
+
+                <Button x:Name="HelpBtn" Grid.Row="0"  Width="250" Margin=" 0 0 0 0" Background="#00000000" Click="HelpBtn_Click" BorderBrush="#FF1DB954" VerticalAlignment="Top" >
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="70" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <TextBlock Grid.Row="0" FontSize="60" FontFamily="Segoe MDL2 Assets" Text="&#xE897;" HorizontalAlignment="Center" Margin=" 0 10 0 0" Foreground="#FF1DB954" />
+                        <TextBlock Grid.Row="1" FontSize="16" FontFamily="Arial Rounded MT Bold" Text="Как задать определение" Foreground="#FF1DB954" HorizontalAlignment="Left" />
+                    </Grid>
+                </Button>
+            </Grid>
+
+            <Grid Grid.Row="1" VerticalAlignment="Bottom">
+                <Grid.RowDefinitions >
+                    <RowDefinition Height="110"/>
+                    <RowDefinition Height="110"/>
+                    <RowDefinition Height="110"/>
+                </Grid.RowDefinitions>
+
+                <Button x:Name="CleanBtn" Grid.Row="0"  Width="250" Margin="0,0,0,10" Background="#00000000" MouseEnter="CleanBtn_MouseEnter" MouseLeave="CleanBtn_MouseLeave" BorderBrush="#FF1DB954" >
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="70" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <TextBlock Grid.Row="0" FontSize="60" FontFamily="Segoe MDL2 Assets" Text="&#xEF17;" HorizontalAlignment="Center" Margin=" 0 10 0 0" Foreground="#FF1DB954"/>
+                        <TextBlock Grid.Row="1" FontSize="16" FontFamily="Arial Rounded MT Bold" Text="Очистить определения" Foreground="#FF1DB954" HorizontalAlignment="Left" />
+                    </Grid>
+                </Button>
+
+                <Button x:Name="randomAutomatoinBtn" Grid.Row="1"  Width="250" Margin="0,0,0,10" Background="#001DB954" Click="randomAutomatoinBtn_Click" BorderBrush="#FF1DB954" >
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="70" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <TextBlock Grid.Row="0" FontSize="60" FontFamily="Segoe MDL2 Assets" Text="&#xE8B1;" HorizontalAlignment="Center" Margin=" 0 10 0 0" Foreground="#FF1DB954"/>
+                        <TextBlock Grid.Row="1" FontSize="16" FontFamily="Arial Rounded MT Bold" Text="Задать определения случайно" Foreground="#FF1DB954" HorizontalAlignment="Left" />
+                    </Grid>
+                </Button>
+
+                <Button x:Name="buildingDeltaBtn" Grid.Row="2"  Width="250" Margin="0,0,0,10" Background="#001DB954" Click="buildingDeltaBtn_Click" BorderBrush="#FF1DB954" >
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="70" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <TextBlock Grid.Row="0" FontSize="60" FontFamily="Segoe MDL2 Assets" Text="&#xE809;" HorizontalAlignment="Center" Margin=" 0 10 0 0" Foreground="#FF1DB954"/>
+                        <TextBlock Grid.Row="1" FontSize="16" FontFamily="Arial Rounded MT Bold" Text="Задать функцию переходов δ" Foreground="#FF1DB954" HorizontalAlignment="Left" />
+                    </Grid>
+                </Button>
+
+            </Grid>
+
+
+
+
+
+
+        </Grid>
+
+    </Grid>
+
+</Page>
